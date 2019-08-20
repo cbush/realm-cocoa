@@ -1,7 +1,9 @@
 x.y.z Release notes (yyyy-MM-dd)
 =============================================================
 ### Enhancements
-* None.
+* Add support for building Realm as an xcframework. Prebuilt xcframeworks will
+  be added to the release package once Xcode 11 is out of beta.
+  ([PR #6237](https://github.com/realm/realm-cocoa/pull/6237)).
 
 ### Fixed
 * <How to hit and notice issue? what was the impact?> ([#????](https://github.com/realm/realm-js/issues/????), since v?.?.?)
